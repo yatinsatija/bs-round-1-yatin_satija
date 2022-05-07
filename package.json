@@ -1,0 +1,28 @@
+{
+  "name": "bs-round-1-yatin_satija",
+  "version": "1.0.0",
+  "description": "browserstack round 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yatinsatija/bs-round-1-yatin_satija.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yatinsatija/bs-round-1-yatin_satija/issues"
+  },
+  "homepage": "https://github.com/yatinsatija/bs-round-1-yatin_satija#readme",
+  "dependencies": {
+    "bookmark-parser": "^0.1.6",
+    "child_process": "^1.0.2",
+    "express": "^4.18.1",
+    "opn": "^6.0.0",
+    "os": "^0.1.2",
+    "url": "^0.11.0",
+    "window": "^4.2.7"
+  }
+}
